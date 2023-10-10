@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/dokkumeme/dokkubot",
-    "repository": "https://github.com/dokkumeme/dokkubot",
+    "website": "https://github.com/dokkumeme/filterdokku",
+    "repository": "https://github.com/dokkumeme/filterdokku",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
