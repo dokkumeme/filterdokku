@@ -1,11 +1,11 @@
-version: "3.8"
+version: "3.9"
 services:
    worker:
     build: .
     environment:
-      BOT_TOKEN: $BOT_TOKEN
-      API_ID: $API_ID
-      API_HASH: $API_HASH
+      BOT_TOKEN: 6288965499:AAGfz_Uztf3Vb6ICZr26Ut5vHx7h7JoCpi4
+      API_ID: 13036663
+      API_HASH: d8f790de6cb092ba5e8065344b349aa8
       CHANNELS: $CHANNELS
       ADMINS: $ADMINS
       LOG_CHANNEL: $LOG_CHANNEL
